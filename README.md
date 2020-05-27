@@ -4,6 +4,6 @@
 
 `Below is an image to show how k nearest neighbors method works.`
 
-!['knn'](knn.jpg)
+!['knn'](https://github.com/billSianipar/Prediction-Model-on-Data-With-Unknown-Features/blob/master/knn.JPG)
 
 `Source: (https://dslytics.wordpress.com/2017/11/16/classification-series-5-k-nearest-neighbors-knn/)`
